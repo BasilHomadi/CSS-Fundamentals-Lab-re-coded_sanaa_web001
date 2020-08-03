@@ -38,12 +38,11 @@ nav a {
 }
 
 #details {
-  display: flex;
+  display: block;
   background-color: red;
 }
 
 #details div {
-  flex: 1;
   float: left;
   text-align: center;
 }
