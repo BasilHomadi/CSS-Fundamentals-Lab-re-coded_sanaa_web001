@@ -38,7 +38,7 @@ nav a {
 }
 
 #details {
-  display: block;
+  display: flex;
   background-color: red;
 }
 
